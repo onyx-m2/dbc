@@ -9279,9 +9279,6 @@ BA_ "GenMsgCycleTime" BO_ 1342 1000;
 BA_ "GenMsgSendType" BO_ 1885 0;
 BA_ "GenMsgCycleTime" BO_ 1885 200;
 
-BA_ "GenMsgSendType" BO_ 528 0;
-BA_ "GenMsgCycleTime" BO_ 528 100;
-
 BA_ "GenMsgSendType" BO_ 583 0;
 BA_ "GenMsgCycleTime" BO_ 583 100;
 
@@ -9375,9 +9372,6 @@ BA_ "GenMsgCycleTime" BO_ 859 1000;
 BA_ "GenMsgSendType" BO_ 694 0;
 BA_ "GenMsgCycleTime" BO_ 694 100;
 
-BA_ "GenMsgSendType" BO_ 1879 0;
-BA_ "GenMsgCycleTime" BO_ 1879 100;
-
 BA_ "GenMsgSendType" BO_ 1880 0;
 BA_ "GenMsgCycleTime" BO_ 1880 10;
 
@@ -9470,9 +9464,6 @@ BA_ "GenMsgCycleTime" BO_ 808 10000;
 
 BA_ "GenMsgSendType" BO_ 325 0;
 BA_ "GenMsgCycleTime" BO_ 325 20;
-
-BA_ "GenMsgSendType" BO_ 1621 0;
-BA_ "GenMsgCycleTime" BO_ 1621 100;
 
 BA_ "GenMsgSendType" BO_ 805 0;
 BA_ "GenMsgCycleTime" BO_ 805 1000;
@@ -9711,9 +9702,6 @@ BA_ "GenMsgCycleTime" BO_ 585 100;
 BA_ "GenMsgSendType" BO_ 297 0;
 BA_ "GenMsgCycleTime" BO_ 297 10;
 
-BA_ "GenMsgSendType" BO_ 1680 0;
-BA_ "GenMsgCycleTime" BO_ 1680 100;
-
 BA_ "GenMsgSendType" BO_ 815 0;
 BA_ "GenMsgCycleTime" BO_ 815 1000;
 
@@ -9750,17 +9738,11 @@ BA_ "GenMsgCycleTime" BO_ 941 1000;
 BA_ "GenMsgSendType" BO_ 973 0;
 BA_ "GenMsgCycleTime" BO_ 973 1000;
 
-BA_ "GenMsgSendType" BO_ 802 0;
-BA_ "GenMsgCycleTime" BO_ 802 1000;
-
 BA_ "GenMsgSendType" BO_ 979 0;
 BA_ "GenMsgCycleTime" BO_ 979 500;
 
 BA_ "GenMsgSendType" BO_ 291 0;
 BA_ "GenMsgCycleTime" BO_ 291 1000;
-
-BA_ "GenMsgSendType" BO_ 1019 0;
-BA_ "GenMsgCycleTime" BO_ 1019 1000;
 
 BA_ "GenMsgSendType" BO_ 819 0;
 BA_ "GenMsgCycleTime" BO_ 819 500;
@@ -9836,9 +9818,6 @@ BA_ "GenMsgCycleTime" BO_ 632 500;
 
 BA_ "GenMsgSendType" BO_ 723 0;
 BA_ "GenMsgCycleTime" BO_ 723 1000;
-
-BA_ "GenMsgSendType" BO_ 12 0;
-BA_ "GenMsgCycleTime" BO_ 12 1000;
 
 BA_ "GenMsgSendType" BO_ 1064 0;
 BA_ "GenMsgCycleTime" BO_ 1064 1000;
